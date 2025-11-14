@@ -17,6 +17,5 @@
 
 ## Contact us
 - [hi@dddbcn.org](mailto:hi@dddbcn.org)
-- [Direct message via Meetup](https://www.meetup.com/dddbcn/)
-- [Direct message via X/Twitter](https://x.com/dddbcn)
+- Direct message via any social network
 - Direct message to the organisers
