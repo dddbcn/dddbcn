@@ -10,7 +10,7 @@
 - [X/Twitter](https://x.com/dddbcn)
 - [Discord](https://discord.com/invite/fEmUHzPtBs)
 - [Mastodon](https://mastodon.social/@dddbcn)
-- [Blue Sky](https://bsky.app/profile/dddbcn.bsky.social)
+- [Bluesky](https://bsky.app/profile/dddbcn.bsky.social)
 - [Instagram](https://www.instagram.com/dddbcn/)
 - [Facebook](https://www.facebook.com/dddbcn/)
 - [Eventbrite](https://www.eventbrite.es/o/domain-driven-design-barcelona-17526397962)
