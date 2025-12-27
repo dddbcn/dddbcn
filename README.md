@@ -5,7 +5,7 @@
 - [Website](https://www.dddbcn.org/)
 - [GitHub](https://github.com/dddbcn)
 - [LinkedIn](https://www.linkedin.com/company/82445851/)
-- [Meetup](https://www.meetup.com/dddbcn/)
+- [Kommunity](https://kommunity.com/dddbcn)
 - [YouTube](https://www.youtube.com/channel/UCt3H_5403IXQgIVUSaw8Rqw)
 - [X/Twitter](https://x.com/dddbcn)
 - [Discord](https://discord.com/invite/fEmUHzPtBs)
